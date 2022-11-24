@@ -1,0 +1,18 @@
+a {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+img {
+	width: 70px;
+}
+
+#open-html-page {
+	min-height: 100vh;
+	width: 100%;
+}
